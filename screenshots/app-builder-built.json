@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Rainbow House",
+      "hasCanvas": false,
+      "bodyTextLen": 2561,
+      "bodyTextHash": "8ec40368595e20b46ead1218be7add39811d5e74913206e0e80841223ef05945",
+      "bodyTextPrefix": "STR TAX STUDIO Rainbow House Occupancy Conservative Base Strong ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Rainbow House",
+      "hasCanvas": false,
+      "bodyTextLen": 1481,
+      "bodyTextHash": "9526d46979f0d42ab71e6647f8bad256eae76aae866bb2e8f95eb671579ef20e",
+      "bodyTextPrefix": "STR TAX STUDIO Rainbow House Assumptions Occupancy Conservative ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
